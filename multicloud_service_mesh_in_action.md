@@ -20,3 +20,9 @@ helm template install/kubernetes/helm/istio
 
 [The doc for Istio install is here](https://istio.io/docs/setup/install/multicluster/)
 
+In Istio you have another layer of DNS - istiocoredns
+
+DNS server - if we have something ending in .global, forward the DNS request to the Istio DNS server.
+
+Create a new ServiceEntry object -> DNS. Just want to resolve to the entry.
+
