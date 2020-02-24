@@ -8,3 +8,4 @@ Notes on the different talks.
 - [The solution of merge hell in monorepo](solution_to_merge_hell.md)
 - [A multi cloud Service Mesh deployment in action](multicloud_service_mesh_in_action.md)
 - [Egoless Programming: the Philosophy of Better Code](egoless_programming.md)
+- [Becoming Antifragile](become_antifragile.md)
