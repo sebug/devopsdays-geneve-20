@@ -17,4 +17,7 @@ They have a *lot* of PRs waiting.
 ## Build manager plugin
 Define a project (included path, excluded suffixes etc), and from that determine whether something specific thing changed in *that* project.
 
+## Monorepo works for them because...
+They don't have to clone all of it.
+
 
