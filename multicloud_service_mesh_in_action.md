@@ -26,3 +26,5 @@ DNS server - if we have something ending in .global, forward the DNS request to 
 
 Create a new ServiceEntry object -> DNS. Just want to resolve to the entry.
 
+Example - using [Flagger](https://flagger.app) to progressively deploy.
+
