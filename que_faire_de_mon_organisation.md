@@ -53,4 +53,5 @@ Separate Site Reliability Engineering teams, not integrated. The important thing
 
 Hand-back: SRE can also say that they don't want to be responsible for a flaky product.
 
-
+## In Conclusion
+Whenever you see the wall, maybe it's type to start thinking about the organization.
