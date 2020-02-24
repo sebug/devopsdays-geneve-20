@@ -7,3 +7,4 @@ Notes on the different talks.
 - [Voyage au pays des orchestrateurs](voyage_au_pays_des_orchestrateurs.md)
 - [The solution of merge hell in monorepo](solution_to_merge_hell.md)
 - [A multi cloud Service Mesh deployment in action](multicloud_service_mesh_in_action.md)
+- [Egoless Programming: the Philosophy of Better Code](egoless_programming.md)
