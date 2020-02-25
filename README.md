@@ -9,3 +9,8 @@ Notes on the different talks.
 - [A multi cloud Service Mesh deployment in action](multicloud_service_mesh_in_action.md)
 - [Egoless Programming: the Philosophy of Better Code](egoless_programming.md)
 - [Becoming Antifragile](become_antifragile.md)
+
+
+## Second day
+
+- [GitOps as a way to manage K8s and virtual machines: feedback!](gitops.md)
