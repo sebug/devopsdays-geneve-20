@@ -32,3 +32,8 @@ Heidi Araya
 
 ## Q & A
 - Remote: Pairing exercise over videoconf
+- How to senibilize the team against unconscious bias:
+  - Let the person who learnt about this actually share with the team
+  - Point out biases in the existing team (same university, age range, etc.)
+  - [SEEDS Model](https://childcareta.acf.hhs.gov/systemsbuilding/systems-guides/leadership/leading-ourselves/seeds-model)
+  
