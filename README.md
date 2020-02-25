@@ -15,3 +15,4 @@ Notes on the different talks.
 
 - [GitOps as a way to manage K8s and virtual machines: feedback!](gitops.md)
 - [The ROI of Mental Health](mental_health_roi.md)
+- [Growing your Agile Team: Hiring and inspiring the right mindset and skills](growing_agile.md)
