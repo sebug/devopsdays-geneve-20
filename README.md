@@ -17,4 +17,6 @@ Notes on the different talks.
 - [The ROI of Mental Health](mental_health_roi.md)
 - [Growing your Agile Team: Hiring and inspiring the right mindset and skills](growing_agile.md)
 - [AirFlow and GCP: tomorrow's health service data platform](airflow_gcp.md)
+- [Kubernetes Security Jumpstart](kubernetes_security.md)
+
 
